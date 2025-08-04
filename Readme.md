@@ -1,1 +1,1 @@
-Upcoming implementation of the paper {Exploring Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution} by {Y. Wang, W. Li, Y. Gui and G. Vivone} submitted to {IEEE TCYB}, which will be available upon acceptance.
+Upcoming implementation of the paper {Exploring Compact Multi-level-prior Tensor Representation for Hyperspectral Image Super-resolution} by {Y. Wang, W. Li, Y. Gui and G. Vivone} under review.
